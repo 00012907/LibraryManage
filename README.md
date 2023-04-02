@@ -26,6 +26,5 @@ Project structure is organized in the recommended method.
 #Github repository link:
 https://github.com/00012907/LibraryManage.git
 
-#Hosted on Render: 
-Please run it on local host first, for the link to work.
-
+#Hosted on Glitch: 
+https://ivory-fossil-grouse.glitch.me
