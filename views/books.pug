@@ -1,0 +1,19 @@
+extends layout.pug 
+
+block content 
+    section.section.page
+        if books.length
+                ul.list
+                    each book in books
+                        li.list-item 
+                            a(href="/books") Title: #{book.title} 
+                            a(href="/books") Author: #{book.author}
+                            a(href="/books") Year of Publication: #{book.year}
+                            a(href="/books") Genre: #{book.module}
+                            div.btns 
+                                button.update-btn(data-id= book.id) Update
+                                button.delete-btn(data-id= book.id) Delete 
+                                
+
+        else 
+            h4 No records found 

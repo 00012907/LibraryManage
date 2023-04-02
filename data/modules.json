@@ -1,0 +1,28 @@
+[
+    {
+        "moduleId": 1,
+        "title": "Science-fiction"
+    },
+
+    {
+        "moduleId": 2,
+        "title": "Detective"
+    },
+
+    {
+        "moduleId": 3,
+        "title": "Romance"
+    },
+    {
+        "moduleId": 4,
+        "title": "Comedy"
+    },
+    {
+        "moduleId": 5,
+        "title": "Fiction"
+    },
+    {
+        "moduleId": 6,
+        "title": "Historical"
+    }
+]
